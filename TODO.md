@@ -10,5 +10,3 @@
 ## Posts
 
 - a11y: title/alt/aria-label
-
-Anything else?
