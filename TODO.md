@@ -10,3 +10,4 @@
 ## Posts
 
 - a11y: title/alt/aria-label
+- Surfing Dirt architecture vs graceful degradation vs progressive enhancement
