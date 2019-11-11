@@ -21,12 +21,15 @@ I kept my resume short and sweet, but if you want more details on a particular j
 
 # Code samples
 
-For code samples, [feel free to checkout my Github account](https://github.com/mikaelgramont).
+* PHP code sample: [Paypal payment processing for an event registration system](https://github.com/mikaelgramont/IMA/blob/master/pages/wfc/paypal-transaction-complete.php)
+* Javascript/React code sample: [A dropdown menu component](https://github.com/surfingdirt/web/blob/master/src/components/Menu/Menu.jsx)
+* Older, Javascript/Polymer project: [A 3d model class](https://github.com/mikaelgramont/drawmeakicker/blob/master/public/models/parts/side.js), this powers [a WebGL project](https://drawmeakicker.com/?id=1)
 
-However, allow me to recommend [the Surfing Dirt repos](https://github.com/surfingdirt) (Surfing Dirt is a personal
-project of mine) where you can find:
+# More code samples!
+
+For more code samples, [feel free to checkout my Github account](https://github.com/mikaelgramont).
+
+However, allow me to recommend for [Surfing Dirt](https://beta.surfingdirt.com) (an ongoing personal project of mine) where you can find:
 * [a PHP-based Rest API](https://github.com/surfingdirt/rest-api)
 * [a GraphQL server](https://github.com/surfingdirt/graphql), and
 * [a React client for a PWA](https://github.com/surfingdirt/web).
-
-Those combined currently power [https://beta.surfingdirt.com](https://beta.surfingdirt.com).
