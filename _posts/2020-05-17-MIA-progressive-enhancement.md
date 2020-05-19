@@ -5,6 +5,11 @@ tag: webdev, react
 published: true
 ---
 
+<figure class="content-image">
+	<img src="../images/mia-progressive-enhancement.png" alt="A picture bag of P&E candy stamped 'Missing in Action'" />
+	<figcaption><a href="https://alistapart.com/article/understandingprogressiveenhancement/">A play on the illustration of Aaaron Gustafson's ALA article from 2008</a></figcaption>
+</figure>
+
 *TLDR; distilling my rant here for you people too busy commuting to the next room:*
 - things you can build on the web form a continuum going from static content to full-featured apps
 - people learn one technology and apply it verbatim to all the things, often sacrificing user experience at one end or the other
