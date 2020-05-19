@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resilience narratives / empathy for the Web's site-app continuum
+title: MIA: progressive enhancement
 tag: webdev, react
 published: true
 ---
