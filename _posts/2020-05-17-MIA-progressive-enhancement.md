@@ -21,7 +21,7 @@ Over the last couple of weeks, several articles and threads on the state of mode
 - [Tim Kadlec's The Cost of JavaScript Frameworks](https://twitter.com/tkadlec/status/1252613423361376256)
 - [Sarah Withee's thread on no-JS](https://twitter.com/geekygirlsarah/status/1260409688413306882)
 - [Tom McWright's Second-guessing the modern web](https://twitter.com/tmcw/status/1259600386094030848)
-- [Righ Harris' In defense of the modern web](https://twitter.com/Rich_Harris/status/1261274111386488834)
+- [Rich Harris' In defense of the modern web](https://twitter.com/Rich_Harris/status/1261274111386488834)
 
 All of them made good points, and put their fingers on painful problems.
 All of them drew out angry comments (this is web development after all), and many times it felt like people were talking past each other in the comments.
