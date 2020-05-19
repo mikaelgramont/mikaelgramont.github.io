@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MIA: progressive enhancement
+title: MIA&#58; progressive enhancement
 tag: webdev, react
 published: true
 ---
