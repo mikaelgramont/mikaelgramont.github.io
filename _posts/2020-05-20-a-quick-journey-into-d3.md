@@ -83,12 +83,12 @@ Some more notes:
 
 ### Scales
 [Scales](https://github.com/d3/d3-scale) map input (domain) to output (range) and can be continuous, quantized, ordinal, or others.
-```
+
 const myScale = d3.scaleLinear()
     .domain([10, 130])
     .range([0, 960]);
 const scaledOutput = myScale(50);
-```	
+	
 
 ### Axis
 [d3.axis](https://github.com/d3/d3-axis) methods build axis and ticks out of DOM elements.
@@ -99,9 +99,9 @@ const scaledOutput = myScale(50);
 - d3.pie()(data) generates data points with startAngle and endAngle for use with methods on d3.arc()
 
 ### Transitions
-```
+
 d3.transition().duration(750)
-```
+
 - pass it .attr() that should be animated to => must match .attr() in enter() and data(), otherwise it animates from default (0, black, etc.)
 - recreate the transition in every update callback otherwise, defaults back to 250ms
 
