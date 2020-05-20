@@ -75,10 +75,12 @@ Some more notes:
 	- chain it with .remove() to actually remove those items
 - merge():
 	- combines selections, in the end, bars is new + updated items:
-		const select = svg.selectAll();
-		const update = select.data();
-		const enter = select.enter();
-		const bars = enter.merge(update);
+~~~
+const select = svg.selectAll();
+const update = select.data();
+const enter = select.enter();
+const bars = enter.merge(update);
+~~~
 - join() takes 3 arguments: enter, update, and exit functions
 
 ### Scales
@@ -99,9 +101,9 @@ const scaledOutput = myScale(50);
 - d3.pie()(data) generates data points with startAngle and endAngle for use with methods on d3.arc()
 
 ### Transitions
-
+~~~
 d3.transition().duration(750)
-
+~~~
 - pass it .attr() that should be animated to => must match .attr() in enter() and data(), otherwise it animates from default (0, black, etc.)
 - recreate the transition in every update callback otherwise, defaults back to 250ms
 
