@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun with canvas
-tag: javascript
+tag: javascript,toys
 published: true
 ---
 

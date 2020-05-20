@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logo generation
-tag: surfingdirt, logo, generative, design
+tag: surfingdirt, logo, generative, design, toys
 published: true
 ---
 

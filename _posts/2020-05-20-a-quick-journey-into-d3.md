@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A quick journey into D3 from a React dev perspective
-tag: react, d3, visualization
+tag: react, d3, visualization, webdev
 published: true
 ---
 

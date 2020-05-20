@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a modern setup for JS development
-tag: javascript
+tag: javascript,webdev
 ---
 
 After starting my journey towards modernizing my toolset and workflows, I now take the full measure of how painful learning the cool new things can be. There a lot of tools out there in the JS/Node/NPM ecosystem, that all do one thing really well, and you kind of want all of them in your projects, but it's really hard to find the information about how to get them to play nice together. This is my attempt at documenting that process.

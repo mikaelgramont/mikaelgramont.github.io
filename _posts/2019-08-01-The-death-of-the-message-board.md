@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The death of the message board
-tag: surfingdirt, facebook, social
+tag: surfingdirt, facebook, social, webdev
 published: true
 ---
 

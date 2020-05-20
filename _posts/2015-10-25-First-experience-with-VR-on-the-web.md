@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First experience with VR on the web through Cardboard
-tag: webgl,vr
+tag: webgl,vr,webdev
 published: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Encrypt!
-tag: misc
+tag: misc,webdev
 published: true
 ---
 

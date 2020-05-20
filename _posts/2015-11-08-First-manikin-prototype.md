@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Manikin prototype
-tag: manikin
+tag: manikin,toys
 published: true
 ---
 
