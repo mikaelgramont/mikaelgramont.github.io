@@ -74,12 +74,16 @@ h4 {
   color: $gray;
 }
 
-p, li {
+p, li, details {
   font-family: $georgia;
 }
 
 p {
     margin: 0 0 1em;
+}
+
+details:hover {
+  cursor: pointer;
 }
 
 a {
@@ -123,6 +127,10 @@ strong, b, em {
 img {
   max-width: 100%;
   height: auto;
+}
+
+details p {
+  margin-left: 2rem;
 }
 
 // Fixes images in popup boxes from Google Translate
