@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Releasing Surfing Dirt
-tag: surfingdirt, facebook, social
+tag: surfingdirt, facebook, social, webdev
 published: true
 ---
 
