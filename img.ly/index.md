@@ -95,6 +95,9 @@ Check out some of my personal projects that could convey my interests:
 ## My full résumé
 Those above projects are things I did of my own volition. For a more complete picture of my background, please check out
  my [résumé](/resume) or [LinkedIn](https://www.linkedin.com/in/mikaelgramont).
+
+## Code samples
+You can find code samples on [my résumé page](/resume).
  
 ## That's it
 So there you have it, I hope to hear from you soon! 
