@@ -424,6 +424,13 @@ figcaption {
   }
 }
 
+.content-twitter {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
 .content-youtube {
   text-align: center;
   margin: 0 auto 10px;

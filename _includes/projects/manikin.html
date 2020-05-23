@@ -1,0 +1,38 @@
+<style>
+  .manikin-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .manikin {
+    display: inline-block;
+    margin: 0 0 0 30px;
+  }
+
+  @media screen and (max-width: 640px) {
+    .manikin-container {
+      display: block;
+    }
+    .manikin {
+      display: block;
+      margin: 0 0 30px 0;
+    }
+  }
+</style>
+<p>
+  A JS/canvas port of a toy I wrote back when I was 16. More info <a href="/First-manikin-prototype">here</a> and
+  <a href="/Manikin-0.1">here</a>.
+</p>
+
+<div class="manikin-container">
+  <figure class="manikin content-surge">
+    <iframe src="https://manikin-01b.surge.sh/" frameborder="0" width="235" height="335"></iframe>
+    <figcaption>Default animation, neat-o!</figcaption>
+  </figure>
+
+  <figure class="manikin content-surge">
+    <iframe src="https://manikin-01b.surge.sh/?sprite=./bodies/default-hybrid.png" frameborder="0" width="235" height="335"></iframe>
+    <figcaption>Same body, different spritesheet</figcaption>
+  </figure>
+</div>
