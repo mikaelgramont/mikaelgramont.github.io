@@ -6,7 +6,7 @@ permalink: /resume/
 
 Hello,
 
-If you're interested in hiring me (I'm flattered!), here's some information to help in your decisions.
+If you're interested in hiring me (I'm flattered!), here's some information to help in your decision.
 
 Mikaël
 
@@ -17,7 +17,7 @@ Download the [latest version of my résumé](../documents/mikaelgramont-resume.p
 # LinkedIn
 
 I kept my resume short and sweet, but if you want more details on a particular job, check out
-[my LinkedIn profile](https://www.linkedin.com/in/mikaelgramont) as I put in more details into it.
+[my LinkedIn profile](https://www.linkedin.com/in/mikaelgramont) as I put more details in there.
 
 # Code samples
 
@@ -29,7 +29,7 @@ I kept my resume short and sweet, but if you want more details on a particular j
 
 For more code samples, [feel free to checkout my Github account](https://github.com/mikaelgramont).
 
-However, allow me to recommend for [Surfing Dirt](https://beta.surfingdirt.com) (an ongoing personal project of mine) where you can find:
+However, allow me to recommend for [Surfing Dirt](https://www.surfingdirt.com) (an ongoing personal project of mine) where you can find:
 * [a PHP-based Rest API](https://github.com/surfingdirt/rest-api)
 * [a GraphQL server](https://github.com/surfingdirt/graphql), and
 * [a React client for a PWA](https://github.com/surfingdirt/web).
