@@ -46,31 +46,29 @@ In fact, regardless of the outcome of our conversations, I might try and integra
 (see below)!
 
 ## Personal projects portfolio
-
-Some of my personal projects that could convey my interests:
-
+Check out some of my personal projects that could convey my interests:
 <ul class="projects">
   <li>
     <details>
-      <summary><h2 class="project-title">Surfing Dirt - <span class="project-date">2019/2020</span> - <span class="tools">React/Node/GraphQL</span></h2></summary>
+      <summary><h2 class="project-title">Surfing Dirt - <span class="project-date">2019/2020</span> - <span class="tools">React / Node / GraphQL</span></h2></summary>
       {% include projects/surfingdirt.html %}
     </details>
   </li>
   <li>
     <details>
-      <summary><h2 class="project-title">Canvas experiment - <span class="project-date">2018</span> - <span class="tools">Vanilla JS/canvas</span></h2></summary>
+      <summary><h2 class="project-title">Canvas experiment - <span class="project-date">2018</span> - <span class="tools">Vanilla JS / canvas</span></h2></summary>
       {% include projects/logo-research.html %}
     </details>
   </li>
   <li>
     <details>
-      <summary><h2 class="project-title">Draw me a kicker - <span class="project-date">2015</span> - <span class="tools">PolymerJS/Three.js</span></h2></summary>
+      <summary><h2 class="project-title">Draw me a kicker - <span class="project-date">2015</span> - <span class="tools">Polymer JS / three.js</span></h2></summary>
       {% include projects/draw-me-a-kicker.html %}
     </details>
   </li>
   <li>
     <details>
-      <summary><h2 class="project-title">Manikin - <span class="project-date">2015</span> - <span class="tools">Vanilla JS/canvas</span></h2></summary>
+      <summary><h2 class="project-title">Manikin - <span class="project-date">2015</span> - <span class="tools">Vanilla JS / canvas</span></h2></summary>
       {% include projects/manikin.html %}
     </details>
   </li>
