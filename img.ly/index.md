@@ -62,6 +62,12 @@ Check out some of my personal projects that could convey my interests:
   </li>
   <li>
     <details>
+      <summary><h2 class="project-title">My vector self - <span class="project-date">2016</span> - <span class="tools">Affinity Designer</span></h2></summary>
+      {% include projects/vector-me.html %}
+    </details>
+  </li>
+  <li>
+    <details>
       <summary><h2 class="project-title">Draw me a kicker - <span class="project-date">2015</span> - <span class="tools">Polymer JS / three.js</span></h2></summary>
       {% include projects/draw-me-a-kicker.html %}
     </details>
