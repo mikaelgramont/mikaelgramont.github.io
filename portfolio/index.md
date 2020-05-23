@@ -95,7 +95,7 @@ A JS/canvas port of a toy I wrote back when I was 16. More info [here](/First-ma
 
 # Gangnam Style 2 Billion views celebration
 An easter egg we wrote and put on the YouTube video page when Gangnam Style reached 2 billion views.
-Ziling and I worked on integrating the code into the page, did the canvas and custom JS, and added character animations provided by Taeho Ko. 
+Ziling Zhao and I worked on integrating the code into the page, did the canvas and custom JS, and added character animations provided by Taeho Ko. 
 [Psy's post on Twitter](https://twitter.com/psy_oppa/status/472594138190196737)
 
 <figure class="content-youtube fourbythree">

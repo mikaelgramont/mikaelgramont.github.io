@@ -21,9 +21,12 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $titleFontFamily;
+  background: $white;
+  background: var(--bg-color);
   color: $darkGray;
+  color: var(--font-color);
+
+  font: 18px/1.4 $titleFontFamily;
   min-height: 100%;
   padding-bottom: 6em;
   position: relative;
@@ -42,7 +45,10 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $titleFontFamily;
+
   color: $darkerGray;
+  color: var(--header-color);
+
   font-weight: bold;
 
   line-height: 1.7;
@@ -313,8 +319,10 @@ nav {
 .home-aside-box {
   padding: 1em;
   border: 1px solid #eee;
+  border-color: var(--post-border-color);
   margin: 1em 0;
   background: #fcfcfc;
+  background: var(--post-bg-color);
 
   .date {
     font-size: .5em;
@@ -371,9 +379,12 @@ nav {
 
 .wrapper-footer,
 .wrapper-masthead {
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-color: #ddd;
+  border-color: var(--card-border-color);
+  border-width: 1px 0;
+
   background-color: $lightGray;
+  background-color: var(--bg-color);
 }
 
 footer {

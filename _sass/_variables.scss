@@ -3,17 +3,38 @@
 // VARIABLES
 //
 
-// Colors
-$blue: #4183C4;
 
-// Grays
+// Color definitions
 $black: #000;
+$blue: #538FCA;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
+$gray: #888;
 $mediumGray: #aaa;
 $lightGray: #eee;
 $white: #fff;
+
+
+// CSS variables
+:root {
+  --font-color: #d8d8d8;
+  --header-color: #d8d8d8;
+  --bg-color: #222;
+  --action-color: #538FCA;
+  --highlight-bg-color: #444;
+  --code-bg-color: #444;
+}
+
+@media(prefers-color-scheme: light) {
+  :root {
+    --font-color: #222;
+    --header-color: #222;
+    --bg-color: #fff;
+    --action-color: #538FCA;
+    --highlight-bg-color: #efefef;
+    --code-bg-color: #efefef;
+  }
+}
 
 $containerPadding: 10px;
 
