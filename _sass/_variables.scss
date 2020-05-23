@@ -39,8 +39,8 @@ $white: #fff;
 $containerPadding: 10px;
 
 // Font stacks
-$titleFontFamily: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$titleFontFamily: Bitter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$bodyFontFamily: Muli, serif;
 
 // Mobile breakpoints
 @mixin mobile {
