@@ -135,6 +135,11 @@ hr {
 .invest-list {
     margin: 0;
 }
+
+.values-aspirations {
+    justify-content: space-between;
+}
+
 {% include case-studies/case-studies.css %}
 </style>
 
@@ -172,7 +177,7 @@ This is a page I put together to introduce myself and present some projects that
 
 <hr />
 
-{% include me/curious-values.html %}
+{% include me/values-aspirations.html %}
 
 <h2 id="personal-projects-portfolio" class="high-header inverted">Hand-picked projects</h2>
 Some of my personal and professional work:
