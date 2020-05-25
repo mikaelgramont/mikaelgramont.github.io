@@ -178,13 +178,16 @@ This is a page I put together to introduce myself and present some projects that
   {% include me/timeline.html %}
 </section>
 
-<hr />
 
-{% include me/toolbox-invest.html %}
+<section>
+  <h2 id="personal-projects-portfolio" class="high-header inverted">On the technical side</h2>
+  {% include me/toolbox-invest.html %}
+</section>
 
-<hr />
-
-{% include me/values-aspirations.html %}
+<section>
+  <h2 id="personal-projects-portfolio" class="high-header inverted">On the personal side</h2>
+  {% include me/values-aspirations.html %}
+</section>
 
 <h2 id="personal-projects-portfolio" class="high-header inverted">Hand-picked projects</h2>
 Some of my personal and professional work:
