@@ -93,7 +93,6 @@ hr {
 
 .timeline-section {
     position: relative;
-    margin-top: 2.6rem;
 }
 
 .experience {
@@ -186,6 +185,9 @@ Some of my personal and professional work:
   </li>
   <li>
     {% include case-studies/draw-me-a-kicker.html %}
+  </li>
+  <li>
+    {% include case-studies/gangnam-style.html %}
   </li>
 </ul>
 

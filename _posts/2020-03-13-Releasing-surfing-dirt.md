@@ -128,7 +128,7 @@ because after 2 years thinking about it, I still wasn't comfortable creating my 
 	<a href="../images/surfing-dirt/logo.png">
 	  <img src="../images/surfing-dirt/logo.png" alt="The Surfing Dirt logo" />
 	</a>
-	<figcaption>I love this Surfing Dirt logo!</figcaption>
+	<figcaption style="color:var(--code-bg-color)">I love this Surfing Dirt logo!</figcaption>
 </figure>
 
 Based on that, I set out to create a design that would work for mobile and modified it later to work on desktop.
@@ -154,8 +154,8 @@ Since I don't have a plan here, I'll just throw random notes on noteworthy thing
 
 ### The Rest API  <a name="api"></a>
 - [JSON Web Tokens (JWT)](https://jwt.io) are cool... but they do come with some problems, namely there's no elegant and
- simple way to manage revoking them (either you build a blacklist, or you change you signing key, which essentially logs
- everyone out)
+ simple way to manage revoking them (either you build a blacklist, or you change your signing key, which essentially logs
+ everyone out).
 - I put and retrieve objects from a cache through overloading of ZF's Active Record object methods, eg:
 `$this->fetch()` will check the cache before talking to MySQL. All my business objects inherit from the same 
 `CacheObject` class, and so they all get caching for (mostly) free.
