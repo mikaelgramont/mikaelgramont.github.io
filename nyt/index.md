@@ -78,6 +78,13 @@ hr {
   font-family: Muli, sans-serif;
   font-weight: normal;
 }
+
+@media screen and (min-width: 376px) {
+    .projects li hr {
+        display: none;
+    }
+}
+
 .toolbox {
   display: flex;
   flex-wrap: wrap;
@@ -181,18 +188,21 @@ This is a page I put together to introduce myself and present some projects that
 
 <h2 id="personal-projects-portfolio" class="high-header inverted">Hand-picked projects</h2>
 Some of my personal and professional work:
-<ul class="projects">
+<ul class="projects case-studies">
   <li>
     {% include case-studies/surfingdirt.html %}
+    <hr />
   </li>
   <li>
     {% include case-studies/arts-and-culture.html %}
+    <hr />
   </li>
   <li>
     {% include case-studies/draw-me-a-kicker.html %}
+    <hr />
   </li>
   <li>
-    {% include case-studies/gangnam-style.html %}
+    {% include case-studies/gangnam-style.html %}    
   </li>
 </ul>
 
