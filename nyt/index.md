@@ -191,6 +191,11 @@ Some of my personal and professional work:
   </li>
 </ul>
 
+<h2 id="thanks" class="high-header inverted">Thanks for your time!</h2>
+<p>
+    For more info, check out my <a href="/resume">full résumé page here</a>.
+</p>
+
 <script>
 {% include me/timeline.js %}
 </script>
