@@ -20,8 +20,7 @@ const labelEl = document.querySelector('#label');
 const locationEl = document.querySelector('#location');
 
 const onSelect = (e) => {
-  // This is not accessible!
-  // TODO: display the data as a table as well
+  // This is not accessible unless a data table is provided as well
   if (!e.target || !e.target.classList.contains('bar')) return;
   const key = parseInt(e.target.getAttribute('data-key'), 10);
   if (isNaN(key)) { return };
