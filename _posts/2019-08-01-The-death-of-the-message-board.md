@@ -11,10 +11,10 @@ expand on that a bit.
 ## The Awful No Good Very Bad Social Network
 
 I probably don't need to repeat all the bad stuff that Facebook has been responsible for, but my short list includes:
-* heavily influencing US elections ([and denying it](https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html)),
-* [causing riots in Myanmar](https://www.wired.com/story/how-facebooks-rise-fueled-chaos-and-confusion-in-myanmar/),
-* [leaking massive amounts of data](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election),
-* [performing user tracking through third-party cookies across the internet](https://twitter.com/eff/status/985693005796466688)/
+* heavily influencing US elections ([and denying it](https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html))
+* [causing riots in Myanmar](https://www.wired.com/story/how-facebooks-rise-fueled-chaos-and-confusion-in-myanmar/)
+* [leaking massive amounts of data](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election)
+* [performing user tracking through third-party cookies across the internet](https://twitter.com/eff/status/985693005796466688)
 
 Those are the important, big picture problems, and it'll take many things to fix them. State-level regulations, internal
 policy updates and public opinion pressure all need to be applied to get Facebook back into a place where it cannot
