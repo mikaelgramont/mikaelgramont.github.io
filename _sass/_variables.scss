@@ -39,8 +39,8 @@ $white: #fff;
 $containerPadding: 10px;
 
 // Font stacks
-$titleFontFamily: Bitter, "Helvetica Neue", Helvetica, Arial, sans-serif;
-$bodyFontFamily: Muli, serif;
+$titleFontFamily: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$bodyFontFamily: "Roboto Slab", serif;
 
 // Mobile breakpoints
 @mixin mobile {

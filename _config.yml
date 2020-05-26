@@ -3,14 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mikaël Gramont
+name: Mikaël Gramont - Web Developer
 
 # Short bio or description (displayed in the header)
-description: Web Developer
+description: A blog about my work and experience
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/580192?v=3&s=96
 
+font_css_url: https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&family=Roboto:wght@400&display=swap
 
 #
 # Flags below are optional
