@@ -6,7 +6,7 @@ published: true
 ---
 
 As I'm finally getting around to playing with data visualisation a bit, I decided to try a real-life exercice: rendering
-data from the Surfing Dirt forum.
+data from the old Surfing Dirt forum, the one that was started over 10 years ago, before I gave it a new home.
 
 So I extracted data from the salvaged database, and came up with 3 things I wanted to see:
 - new topics per week
