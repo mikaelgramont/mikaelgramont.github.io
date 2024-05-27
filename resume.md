@@ -21,8 +21,12 @@ I kept my resume short and sweet, but if you want more details on a particular j
 
 # Code samples
 
+As my latest position involves working for third-party businesses, I'm unable to share code I wrote recently.
+
+However, here are some older ones:
+
 * PHP code sample: [Paypal payment processing for an event registration system](https://github.com/mikaelgramont/IMA/blob/master/pages/wfc/paypal-transaction-complete.php)
-* Javascript/React code sample: [A dropdown menu component](https://github.com/surfingdirt/web/blob/master/src/components/Widgets/Menu/Menu.jsx)
+* Javascript/React code sample: [A dropdown menu component](https://github.com/surfingdirt/web/blob/master/src/components/Widgets/Menu/Menu.jsx) (this was before I started using Typescript)
 * Node code sample: [MutationRunner](https://github.com/surfingdirt/web/blob/master/server/mutationRunner.js), a class for a simple GraphQL client.<br>
 Used to provide progressive enhancement GraphQL capabilities to the app.
 * Older, Javascript/Polymer project: [A 3d model class](https://github.com/mikaelgramont/drawmeakicker/blob/master/public/models/parts/side.js), this powers [a WebGL project](https://drawmeakicker.com/?id=1)
